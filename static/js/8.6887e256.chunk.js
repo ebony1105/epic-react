@@ -1,0 +1,2 @@
+(this["webpackJsonpepic-react"]=this["webpackJsonpepic-react"]||[]).push([[8],{312:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a);t.default=function(){return c.a.createElement(c.a.Fragment,null,c.a.createElement("h1",null,"About"))}}}]);
+//# sourceMappingURL=8.6887e256.chunk.js.map
